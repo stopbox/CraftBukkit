@@ -18,19 +18,6 @@
     <buildtag.suffix></buildtag.suffix>
   </properties>
 
-  <scm>
-    <connection>scm:git:git://github.com/Bukkit/CraftBukkit.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/Bukkit/CraftBukkit.git</developerConnection>
-    <url>https://github.com/Bukkit/CraftBukkit</url>
-  </scm>
-
-  <pluginRepositories>
-    <pluginRepository>
-      <id>bukkit-plugins</id>
-      <url>http://repo.bukkit.org/content/groups/public</url>
-    </pluginRepository>
-  </pluginRepositories>
-
   <dependencies>
     <dependency>
       <groupId>org.bukkit</groupId>
