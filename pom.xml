@@ -49,8 +49,6 @@
       <url>http://repo.bukkit.org/content/groups/public</url>
     </pluginRepository>
   </pluginRepositories>
-
->>>>>>> parent of 7955cfa... Update pom.xml
   <dependencies>
     <dependency>
       <groupId>org.bukkit</groupId>
