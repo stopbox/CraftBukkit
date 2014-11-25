@@ -17,9 +17,6 @@
     <buildtag.prefix>git-Bukkit-</buildtag.prefix>
     <buildtag.suffix></buildtag.suffix>
   </properties>
-
-<<<<<<< HEAD
-=======
   <scm>
     <connection>scm:git:git://github.com/Bukkit/CraftBukkit.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/Bukkit/CraftBukkit.git</developerConnection>
